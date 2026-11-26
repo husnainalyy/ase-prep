@@ -1,0 +1,682 @@
+30-DAY ASSOCIATE SOFTWARE ENGINEER (ASE) INTERVIEW PREPARATION PLAN
+Subjects covered every day:
+Data Structures and Algorithms (DSA)
+Object-Oriented Programming (OOP)
+Database Management Systems (DBMS)
+Practical SQL Queries
+Operating Systems (OS)
+Computer Networks
+
+DAY 1
+1. DSA — Arrays
+Find the largest and smallest element in an array.
+Find the second-largest element without sorting.
+Reverse an array without using another array.
+2. OOP — Fundamentals
+What is Object-Oriented Programming (OOP), and why do we use it?
+What is the difference between a class and an object?
+What are the four pillars of OOP? Explain each with a real-world example.
+3. DBMS — Fundamentals
+What is a database?
+What is a DBMS?
+What is the difference between DBMS and RDBMS?
+4. SQL — Basic SELECT Queries
+Retrieve all records from an Employees table.
+Retrieve only employee names and salaries.
+Find employees whose salary is greater than 50,000.
+5. OS — Fundamentals
+What is an Operating System?
+What are the main functions of an Operating System?
+What are the different types of Operating Systems?
+6. Computer Networks — Networking Fundamentals
+What is a computer network?
+Explain LAN, MAN, and WAN.
+What is the difference between the Internet and an intranet?
+
+DAY 2
+1. DSA — Arrays
+Remove duplicates from a sorted array.
+Find the missing number from an array containing numbers from 1 to N.
+2. OOP — Fundamentals
+Difference between procedural programming and object-oriented programming.
+Advantages and disadvantages of OOP.
+3. DBMS — Fundamentals
+What are the advantages of using a DBMS?
+What is a relational database?
+4. SQL — Basic SELECT Queries
+Find employees whose names start with the letter B.
+Find employees whose names end with n.
+5. OS — Fundamentals
+Difference between a 32-bit and a 64-bit operating system.
+Difference between a kernel and an operating system.
+6. Computer Networks — Networking Fundamentals
+What is network topology? Explain star, bus, ring, and mesh.
+Difference between a hub, switch, and router.
+
+DAY 3
+1. DSA — Arrays
+Find duplicate elements in an array.
+Move all zeros to the end of an array.
+2. OOP — Fundamentals
+Difference between a member variable and a member function.
+What are access modifiers? Explain public, private, and protected.
+3. DBMS — Fundamentals
+What is a table, row, column, and field?
+What is a schema in a database?
+4. SQL — Basic SELECT Queries
+Find employees whose names contain Ali.
+Retrieve employees whose salaries are between 40,000 and 80,000.
+5. OS — Fundamentals
+What is a system call?
+What are the different types of system calls?
+6. Computer Networks — Networking Fundamentals
+What is a MAC address?
+What is an IP address?
+
+DAY 4
+1. DSA — Arrays
+Find the maximum subarray sum using Kadane's Algorithm.
+Solve the Two Sum problem.
+Merge two sorted arrays.
+2. OOP — Fundamentals
+Difference between a structure (struct) and a class in C++.
+Difference between an object and an instance.
+Difference between a local variable, instance variable, and static variable.
+3. DBMS — Fundamentals
+Difference between SQL and MySQL.
+What are the different types of databases?
+Difference between SQL and NoSQL databases.
+4. SQL — Basic SELECT Queries
+Retrieve employees whose department IDs are in a given list.
+Retrieve the first six records from a table.
+Retrieve employees in descending order of salary.
+5. OS — Fundamentals
+Difference between user mode and kernel mode.
+6. Computer Networks — Networking Fundamentals
+Difference between a public IP and a private IP.
+
+DAY 5
+1. DSA — Strings
+Reverse a string without using a built-in reverse function.
+Check whether a string is a palindrome.
+2. OOP — Encapsulation and Abstraction
+What is encapsulation? Give a real-world example.
+How do you achieve encapsulation in C++?
+3. DBMS — SQL Fundamentals
+What is SQL, and why is it used?
+What are the different categories of SQL commands?
+4. SQL — Aggregate Functions
+Count the total number of employees.
+Calculate the average employee salary.
+5. OS — Processes
+What is a process?
+What are the different states of a process?
+6. Computer Networks — OSI and TCP/IP Models
+What is the OSI model?
+Explain all seven layers of the OSI model.
+
+DAY 6
+1. DSA — Strings
+Check whether two strings are anagrams.
+Find the first non-repeating character in a string.
+2. OOP — Encapsulation and Abstraction
+Why should class data members generally be declared private?
+What are getters and setters? Why do we use them?
+3. DBMS — SQL Fundamentals
+Difference between DDL, DML, DQL, DCL, and TCL.
+Difference between DELETE, DROP, and TRUNCATE.
+4. SQL — Aggregate Functions
+Find the maximum salary.
+Find the minimum salary.
+5. OS — Processes
+What is a Process Control Block (PCB)?
+What is a Process ID (PID)?
+6. Computer Networks — OSI and TCP/IP Models
+What is the TCP/IP model?
+What are the four layers of the TCP/IP model?
+
+DAY 7
+1. DSA — Strings
+Count the frequency of each character in a string.
+Find the longest substring without repeating characters.
+Check whether two strings are rotations of each other.
+2. OOP — Encapsulation and Abstraction
+What is abstraction in OOP?
+Difference between abstraction and encapsulation.
+How can you achieve abstraction using abstract classes and interfaces?
+3. DBMS — SQL Fundamentals
+Difference between WHERE and HAVING.
+Difference between GROUP BY and ORDER BY.
+Difference between DISTINCT and GROUP BY.
+4. SQL — Aggregate Functions
+Calculate the total salary paid by the company.
+Count employees in each department.
+Find the average salary of each department.
+5. OS — Processes
+Difference between a program and a process.
+What is process scheduling?
+6. Computer Networks — OSI and TCP/IP Models
+Difference between OSI and TCP/IP models.
+At which OSI layer does a router operate?
+At which OSI layer does a switch operate?
+
+DAY 8
+1. DSA — Searching and Sorting
+Implement Linear Search.
+Implement Binary Search using iteration.
+2. OOP — Encapsulation and Abstraction
+Give a practical example of abstraction from a banking or payment system.
+3. DBMS — SQL Fundamentals
+What are SQL constraints?
+Difference between NULL, 0, and an empty string.
+4. SQL — Aggregate Functions
+Find departments having more than five employees.
+5. OS — Processes
+What is a context switch?
+What happens during a context switch?
+6. Computer Networks — OSI and TCP/IP Models
+What are encapsulation and decapsulation?
+What are the PDU names at different OSI layers?
+
+DAY 9
+1. DSA — Searching and Sorting
+Implement Binary Search using recursion.
+Find the first and last occurrence of an element in a sorted array.
+2. OOP — Inheritance
+What is inheritance, and why do we use it?
+What are the different types of inheritance in C++?
+3. DBMS — SQL Fundamentals
+Difference between CHAR and VARCHAR.
+What is a primary key?
+4. SQL — JOIN Queries
+Assume the following tables:
+Employees(employee_id, name, salary, department_id, manager_id)
+Departments(department_id, department_name)
+Projects(project_id, project_name, department_id)
+EmployeeProjects(employee_id, project_id)
+Display employee names with their department names.
+Retrieve all employees, including those who do not belong to a department.
+5. OS — Processes
+Difference between a process and a thread.
+What are parent and child processes?
+6. Computer Networks — IP Addressing and Subnetting
+What is IPv4?
+What is IPv6, and why was it introduced?
+
+DAY 10
+1. DSA — Searching and Sorting
+Search for an element in a rotated sorted array.
+Implement Bubble Sort.
+Implement Selection Sort and Insertion Sort.
+2. OOP — Inheritance
+Difference between single, multiple, multilevel, hierarchical, and hybrid inheritance.
+Difference between public, private, and protected inheritance.
+Difference between a base class and a derived class.
+3. DBMS — Keys and Relationships
+What is a foreign key?
+Difference between primary key and foreign key.
+4. SQL — JOIN Queries
+Retrieve all departments, including departments that have no employees.
+Retrieve employees who do not belong to any department.
+Retrieve departments that have no employees.
+5. OS — Threads and Multithreading
+What is a thread?
+What are the advantages of multithreading?
+6. Computer Networks — IP Addressing and Subnetting
+Difference between IPv4 and IPv6.
+What are the different IPv4 address classes?
+
+DAY 11
+1. DSA — Searching and Sorting
+Implement Merge Sort and Quick Sort.
+2. OOP — Inheritance
+What is constructor calling order in inheritance?
+What is destructor calling order in inheritance?
+3. DBMS — Keys and Relationships
+What is a candidate key?
+What is a super key?
+4. SQL — JOIN Queries
+Display employee names and their project names.
+Find employees working on more than one project.
+5. OS — Threads and Multithreading
+Difference between single-threading and multithreading.
+Difference between user-level and kernel-level threads.
+6. Computer Networks — IP Addressing and Subnetting
+What is a subnet mask?
+What is CIDR notation?
+
+DAY 12
+1. DSA — Linked Lists
+Implement a singly linked list with insertion, deletion, searching and updating.
+Reverse a singly linked list.
+2. OOP — Inheritance
+What is multiple inheritance? Explain with a C++ example.
+What is the diamond problem in multiple inheritance.
+3. DBMS — Keys and Relationships
+What is a composite key?
+What is a unique key?
+4. SQL — JOIN Queries
+Find projects that have no employees assigned.
+Display employee names along with their manager names using a self join.
+5. OS — Threads and Multithreading
+What are the different multithreading models?
+What is concurrency?
+6. Computer Networks — IP Addressing and Subnetting
+What is subnetting, and why is it used?
+Difference between a network address and a broadcast address.
+
+DAY 13
+1. DSA — Linked Lists
+Find the middle element of a linked list.
+Detect a cycle in a linked list using Floyd's Algorithm.
+Merge two sorted linked lists.
+2. OOP — Inheritance
+How does virtual inheritance solve the diamond problem?
+What is polymorphism? Explain with a real-world example.
+What are the two main types of polymorphism?
+3. DBMS — Keys and Relationships
+Difference between a primary key and a unique key.
+Explain one-to-one, one-to-many, and many-to-many relationships.
+4. SQL — JOIN Queries
+Retrieve employees working in the same department.
+Join three tables: Employees, Departments, and Projects.
+Find employees assigned to every project in their department.
+5. OS — Threads and Multithreading
+What is parallelism?
+Difference between concurrency and parallelism.
+6. Computer Networks — IP Addressing and Subnetting
+Difference between a default gateway and a DNS server.
+What is NAT, and why is it used?
+
+DAY 14
+1. DSA — Stacks and Queues
+Implement a stack using an array (push, pop, peek).
+Implement a stack using a linked list.
+2. OOP — Polymorphism
+What is compile-time polymorphism?
+What is runtime polymorphism?
+3. DBMS — JOINs and Query Concepts
+What is a JOIN in SQL?
+Difference between INNER JOIN and LEFT JOIN.
+4. SQL — Subqueries and Nested Queries
+Find employees earning more than the average salary.
+Find the second-highest salary.
+5. OS — Threads and Multithreading
+What is a race condition?
+6. Computer Networks — TCP and UDP
+What is TCP?
+What is UDP?
+
+DAY 15
+1. DSA — Stacks and Queues
+Implement a queue using an array.
+Implement a queue using two stacks.
+2. OOP — Polymorphism
+What is function overloading?
+What is operator overloading? Can you overload the + operator?
+What is function overriding?
+3. DBMS — JOINs and Query Concepts
+Difference between LEFT JOIN and RIGHT JOIN.
+What is a FULL OUTER JOIN?
+4. SQL — Subqueries and Nested Queries
+Find the third-highest salary.
+Find the Nth-highest salary.
+5. OS — CPU Scheduling
+What is CPU scheduling?
+Difference between preemptive and non-preemptive scheduling.
+6. Computer Networks — TCP and UDP
+Difference between TCP and UDP.
+What is the TCP three-way handshake?
+
+DAY 16
+1. DSA — Stacks and Queues
+Check whether parentheses are balanced.
+Find the Next Greater Element in an array.
+Implement a Min Stack with O(1) minimum retrieval.
+2. OOP — Polymorphism
+Difference between function overloading and function overriding.
+What is a virtual function in C++?
+What is a pure virtual function? How do you create an abstract class in C++?
+3. DBMS — JOINs and Query Concepts
+What is a CROSS JOIN?
+What is a SELF JOIN?
+Difference between UNION and UNION ALL.
+4. SQL — Subqueries and Nested Queries
+Find employees earning the highest salary.
+Find employees earning more than their department's average salary.
+Find employees whose salary is greater than their manager's salary.
+5. OS — CPU Scheduling
+Explain First Come First Serve (FCFS) scheduling.
+Explain Shortest Job First (SJF) scheduling.
+Explain Shortest Remaining Time First (SRTF) scheduling.
+6. Computer Networks — TCP and UDP
+What happens during TCP connection termination?
+What are SYN, ACK, and FIN flags?
+
+DAY 17
+1. DSA — Hashing and Two Pointers
+Find the frequency of elements using a HashMap.
+Find the intersection of two arrays.
+2. OOP — Polymorphism
+Difference between a virtual function and a pure virtual function.
+3. DBMS — JOINs and Query Concepts
+What is a subquery?
+What is a correlated subquery?
+4. SQL — Subqueries and Nested Queries
+Find departments whose average salary is greater than the company's average salary.
+Find employees who work in the same department as a particular employee.
+5. OS — CPU Scheduling
+Explain Round Robin scheduling.
+Explain Priority Scheduling.
+6. Computer Networks — TCP and UDP
+What is flow control in TCP?
+What is congestion control?
+
+DAY 18
+1. DSA — Hashing and Two Pointers
+Solve the Three Sum problem.
+Find the majority element in an array.
+2. OOP — Constructors and Destructors
+What is a constructor, and why is it used?
+What are the different types of constructors in C++?
+3. DBMS — JOINs and Query Concepts
+Difference between a subquery and a JOIN.
+What is a Common Table Expression (CTE)?
+4. SQL — Subqueries and Nested Queries
+Find customers who have placed at least one order using EXISTS.
+5. OS — CPU Scheduling
+What is starvation in CPU scheduling?
+What is aging, and how does it prevent starvation?
+6. Computer Networks — TCP and UDP
+Difference between a TCP segment and a UDP datagram.
+
+DAY 19
+1. DSA — Hashing and Two Pointers
+Find the maximum sum of a subarray of size K.
+Find the smallest subarray with sum greater than or equal to a target.
+Group anagrams together.
+2. OOP — Constructors and Destructors
+What is a default constructor?
+What is a parameterized constructor?
+What is a copy constructor?
+3. DBMS — Practical SQL Concepts
+Write a query to find the second-highest salary from an Employee table.
+Write a query to find the highest salary in each department.
+Write a query to find duplicate records in a table.
+4. SQL — Duplicate Records and Data Manipulation
+Find duplicate email addresses.
+Count how many times each email appears.
+Retrieve duplicate records based on both name and email.
+5. OS — Deadlocks
+What is a deadlock?
+What are the four necessary conditions for deadlock?
+6. Computer Networks — DNS and Application Protocols
+What is DNS?
+How does DNS resolution work when you enter a website URL in a browser?
+What are A, AAAA, CNAME, MX, and TXT DNS records?
+
+DAY 20
+1. DSA — Trees and BST
+Implement a Binary Search Tree with insertion, searching and deletion.
+Perform inorder, preorder and postorder traversal.
+2. OOP — Constructors and Destructors
+Difference between a copy constructor and an assignment operator.
+What is a destructor, and when is it called?
+3. DBMS — Practical SQL Concepts
+Write a query to delete duplicate records while keeping one copy.
+Write a query to find employees whose salary is greater than the average salary.
+4. SQL — Duplicate Records and Data Manipulation
+Delete duplicate records while keeping one copy.
+Update an employee's salary.
+5. OS — Deadlocks
+What is mutual exclusion?
+What is hold and wait?
+What is no preemption?
+6. Computer Networks — DNS and Application Protocols
+What is DHCP, and how does it work?
+What is HTTP?
+What is HTTPS?
+
+DAY 21
+1. DSA — Trees and BST
+Perform level-order traversal using a queue.
+Find the height or maximum depth of a binary tree.
+Find the minimum and maximum values in a BST.
+2. OOP — Constructors and Destructors
+Can constructors and destructors be overloaded?
+What is the this pointer in C++?
+Difference between stack memory and heap memory when creating objects.
+3. DBMS — Practical SQL Concepts
+Write a query to find employees who do not belong to any department.
+Write a query to count employees in each department.
+4. SQL — Duplicate Records and Data Manipulation
+Increase every employee's salary by 10%.
+Delete employees belonging to a particular department.
+Replace NULL values in a column with a default value.
+5. OS — Deadlocks
+What is circular wait?
+Difference between deadlock prevention, avoidance, and detection.
+6. Computer Networks — DNS and Application Protocols
+Difference between HTTP and HTTPS.
+Explain GET, POST, PUT, PATCH, and DELETE.
+Explain HTTP status codes 200, 301, 400, 401, 403, 404, and 500.
+
+DAY 22
+1. DSA — Trees and BST
+Check whether a binary tree is a valid BST.
+2. OOP — Important C++ OOP Concepts
+Difference between static and non-static data members.
+What is a static member function? Can it access non-static members directly?
+3. DBMS — Normalization and Database Design
+What is database normalization, and why is it needed?
+What are insertion, update, and deletion anomalies?
+4. SQL — Advanced SQL Queries
+Retrieve the top three highest-paid employees.
+Retrieve the top three highest-paid employees in each department.
+Find the employee with the second-highest salary in each department.
+5. OS — Memory Management
+What is memory management in an Operating System?
+Difference between logical and physical addresses.
+What is virtual memory?
+6. Computer Networks — DNS and Application Protocols
+Difference between HTTP and HTTPS default ports.
+Difference between FTP, SFTP, and SSH.
+
+DAY 23
+1. DSA — Heaps
+Implement a Min Heap and Max Heap.
+Find the Kth largest element in an array.
+2. OOP — Important C++ OOP Concepts
+Difference between a shallow copy and a deep copy.
+What is dynamic memory allocation using new and delete?
+3. DBMS — Normalization and Database Design
+What is First Normal Form (1NF)?
+What is Second Normal Form (2NF)?
+4. SQL — Advanced SQL Queries
+Retrieve employees hired in the last 30 days.
+Find the latest order placed by each customer.
+5. OS — Memory Management
+What is paging?
+What is segmentation?
+6. Computer Networks — Routing and Network Devices
+What is routing?
+Difference between static routing and dynamic routing.
+
+DAY 24
+1. DSA — Heaps
+Find the Top K frequent elements.
+2. OOP — Important C++ OOP Concepts
+What is object slicing in C++?
+Difference between a virtual destructor and a normal destructor.
+3. DBMS — Normalization and Database Design
+What is Third Normal Form (3NF)?
+What is Boyce-Codd Normal Form (BCNF)?
+4. SQL — Advanced SQL Queries
+Calculate the running total of employee salaries.
+Rank employees based on their salaries.
+5. OS — Memory Management
+Difference between paging and segmentation.
+What is a page fault?
+6. Computer Networks — Routing and Network Devices
+What is a routing table?
+Difference between a router and a Layer 3 switch.
+
+DAY 25
+1. DSA — Recursion and Backtracking
+Calculate factorial using recursion.
+Generate the Fibonacci sequence using recursion and DP.
+Generate all subsets of an array.
+2. OOP — Important C++ OOP Concepts
+Difference between a pointer to an object and an object reference.
+Difference between const member functions and normal member functions.
+3. DBMS — Normalization and Database Design
+What is denormalization, and when should it be used?
+4. SQL — Advanced SQL Queries
+Find employees with the same salary.
+Retrieve the first and last record in a table based on an ID.
+Find customers who have never placed an order.
+5. OS — Memory Management
+What is page replacement?
+Explain FIFO, LRU, and Optimal page replacement algorithms.
+What is thrashing?
+6. Computer Networks — Routing and Network Devices
+What is ARP, and how does it work?
+Difference between ARP and DNS.
+Difference between a collision domain and a broadcast domain.
+
+DAY 26
+1. DSA — Recursion and Backtracking
+Generate all permutations of a string.
+Solve the Combination Sum problem.
+Solve the N-Queens problem.
+2. OOP — Relationships Between Classes
+What is association in OOP?
+What is aggregation? Give a real-world example.
+3. DBMS — Transactions and ACID Properties
+What is a database transaction?
+What are ACID properties?
+Explain atomicity, consistency, isolation, and durability.
+4. SQL — Real-World Database Scenarios
+Assume an e-commerce database containing Customers, Orders, OrderItems, and Products.
+Calculate the total amount spent by each customer.
+Find the customer who has spent the most money.
+5. OS — Process Synchronization
+What is process synchronization?
+What is a critical section?
+6. Computer Networks — Network Security
+What is a firewall?
+Difference between a hardware firewall and a software firewall.
+
+DAY 27
+1. DSA — Graphs
+Represent a graph using an adjacency list and adjacency matrix.
+Implement Breadth-First Search (BFS).
+2. OOP — Relationships Between Classes
+What is composition? Give a real-world example.
+Difference between aggregation and composition.
+3. DBMS — Transactions and ACID Properties
+Difference between COMMIT and ROLLBACK.
+What are database isolation levels?
+4. SQL — Real-World Database Scenarios
+Find the most frequently ordered product.
+Find products that have never been ordered.
+5. OS — Process Synchronization
+What is a critical section problem?
+What is a mutex?
+6. Computer Networks — Network Security
+What is a VPN, and how does it work?
+Difference between symmetric and asymmetric encryption.
+
+DAY 28
+1. DSA — Graphs
+Implement Depth-First Search (DFS).
+Detect a cycle in a graph.
+Find the shortest path using Dijkstra's Algorithm.
+2. OOP — Relationships Between Classes
+Difference between inheritance and composition. When should you prefer composition?
+3. DBMS — Transactions and ACID Properties
+What are dirty reads, non-repeatable reads, and phantom reads?
+4. SQL — Real-World Database Scenarios
+Calculate monthly sales.
+Find customers who have placed more than five orders.
+Find the second most purchased product by quantity.
+5. OS — Process Synchronization
+What is a semaphore?
+Difference between a mutex and a semaphore.
+What is the producer-consumer problem?
+6. Computer Networks — Network Security
+What is SSL/TLS?
+What is a DDoS attack?
+Difference between authentication and authorization.
+
+DAY 29
+1. DSA — Dynamic Programming and Greedy Algorithms
+Solve the Climbing Stairs problem.
+Solve the House Robber problem.
+Solve the Coin Change problem.
+2. OOP — SOLID Principles and Design Patterns
+What are the SOLID principles? Explain all five.
+What is the Single Responsibility Principle?
+What is the Open/Closed Principle?
+3. DBMS — Indexing and Advanced Concepts
+What is an index in a database?
+Difference between clustered and non-clustered indexes.
+What are the advantages and disadvantages of indexes?
+4. SQL — Database Design and Query Challenges
+Given an ER diagram for a university system, create the required tables and write queries to retrieve students with their enrolled courses.
+Design an employee-department-project database schema and write a query to retrieve employees assigned to multiple projects.
+5. OS — File Systems, I/O and Linux
+What is a file system?
+Difference between a file and a directory.
+Difference between FAT32, NTFS, and ext4.
+6. Computer Networks — Network Security
+What is a port, and what are some commonly used network ports?
+
+DAY 30
+1. DSA — Dynamic Programming and Greedy Algorithms
+Solve the 0/1 Knapsack problem.
+Solve the Activity Selection problem.
+Solve the Jump Game problem.
+2. OOP — SOLID Principles and Design Patterns
+What is the Liskov Substitution Principle?
+What is the Interface Segregation Principle?
+What is the Dependency Inversion Principle?
+What is the Singleton design pattern? Implement it in C++.
+What is the Factory design pattern? Explain with a practical example.
+3. DBMS — Indexing and Advanced Concepts
+What is a composite index?
+What is query optimization?
+What is a stored procedure, and how is it different from a function?
+What is a database trigger?
+4. SQL — Database Design and Query Challenges
+Write a query using a CTE to find employees earning above their department's average salary.
+Write a query using ROW_NUMBER() to remove duplicate records while retaining one record per email.
+Write a query using CASE WHEN to categorize employees into low, medium, and high salary groups.
+5. OS — File Systems, I/O and Linux
+What is a device driver?
+What is an interrupt?
+Difference between polling and interrupts.
+What is buffering, caching, and spooling?
+What happens when you execute a program on Linux?
+Explain Linux process-management commands such as ps, top, kill, and nice.
+Difference between fork(), exec(), and wait() in Linux.
+6. Computer Networks — Practical Networking and Troubleshooting
+What happens step by step when you enter https://google.com in your browser?
+What happens when you type an IP address into your browser instead of a domain name?
+How would you troubleshoot a computer that is connected to Wi-Fi but has no Internet access?
+Difference between ping and traceroute.
+What are ipconfig, ifconfig, and ip addr used for?
+What are netstat and ss used for?
+Difference between bandwidth, throughput, latency, and jitter.
+What happens when two devices on the same network have the same IP address?
+
+FINAL COMPLETION CHECKLIST
+Data Structures and Algorithms — 70 questions
+Object-Oriented Programming — 70 questions
+DBMS Theory — 70 questions
+Practical SQL Queries — 70 questions
+Operating Systems — 70 questions
+Computer Networks — 70 questions
+Total: 420 questions across 30 days.
+Final preparation rule: Every day, prepare all six subjects. For DSA and SQL, write and execute code/queries rather than only reading answers. For OOP, OS, DBMS and Networking, practise explaining concepts aloud with examples and follow-up questions.
+
